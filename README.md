@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ARYAN,@183aryan
-- 👀 I’m interested in coding,CP,development,AI&ML.
+- 👀 I’m interested in coding,CP,development.
 - 🌱 I’m currently learning in B.tech(CSE),1st year,at MMMUT,GKP,UP,India.
 - 💞️ I’m looking to collaborate on with all of you related to my field and i am interested in making projects in different field.
 - 📫 How to reach me ...please reach me from my gmail account aryan183choudhary@gmail.com
