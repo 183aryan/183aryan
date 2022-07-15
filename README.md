@@ -6,8 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
+Visitors count : ![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
 
+Show some ❤ by starring ✨✨ some of the repositories.
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=183aryan&label=Profile%20views&color=ce9927&style=flat" alt="183aryan" /> </p> -->
 <!---
