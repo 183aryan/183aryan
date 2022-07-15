@@ -8,6 +8,22 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
 
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <183aryan_credly> # optional, but default will use the same from github
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=183aryan&label=Profile%20views&color=ce9927&style=flat" alt="183aryan" /> </p> -->
 <!---
 183aryan/183aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
