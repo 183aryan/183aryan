@@ -8,6 +8,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=183aryan&label=Profile%20views&color=ce9927&style=flat" alt="183aryan" /> </p>
 <!---
 183aryan/183aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
