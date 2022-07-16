@@ -9,11 +9,11 @@
 - 📫 How to reach me ...please reach me from my gmail account aryan183choudhary@gmail.com
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+</br>
 Visitors count : ![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
 <br>
 Show some ❤ by starring ✨✨ some of the repositories.
-
+</br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=183aryan&label=Profile%20views&color=ce9927&style=flat" alt="183aryan" /> </p> -->
 <!---
 183aryan/183aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
