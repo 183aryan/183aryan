@@ -7,9 +7,9 @@
 - 🌱 I’m currently studying in B.tech(CSE),3rd year,at MMMUT,GKP,UP,India.
 - 💞️ I’m looking to collaborate on with all of you related to my field and i am interested in making projects in different field.
 - 📫 How to reach me ...please reach me from my gmail account aryan183choudhary@gmail.com
-<hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
+
 Visitors count : ![Visitor Count](https://profile-counter.glitch.me/183aryan/count.svg)
 
 <hr>
