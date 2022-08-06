@@ -53,7 +53,7 @@
 </details>
 <img align="center" width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=183aryan&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=183aryan&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=183aryan)](https://github.com/183aryan/github-readme-stats)
 <br></br>
 
 <div align="center">
