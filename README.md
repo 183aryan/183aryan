@@ -47,11 +47,12 @@
 
 <details>
 <summary><b>GitHub Analytics</b></summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/183aryan/github-profile-trophy)
 <img align="center" width="38%" alt="183aryan's Github Stats" src="https://github-readmestats.vercel.app/apiusername=183aryan&show_icons=true&hide_border=true&theme=algolia"/>
 <img align="center" width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=183aryan&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=183aryan&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </details>
-[![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/183aryan/github-profile-trophy)
+
 
 <br></br>
 
