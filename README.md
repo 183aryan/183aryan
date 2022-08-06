@@ -46,7 +46,7 @@
 <br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/183aryan/github-profile-trophy)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=183aryan&theme=highcontrast&show_icons=true&count_private=true)
 <details>
 <summary><b>GitHub Analytics</b></summary>
 <img align="center" width="38%" alt="183aryan's Github Stats" src="https://github-readmestats.vercel.app/apiusername=183aryan&show_icons=true&hide_border=true&theme=algolia"/>
