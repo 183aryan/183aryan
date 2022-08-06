@@ -44,6 +44,7 @@
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 
 <br/><br/>
+<h3>GitHub Analytics</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=183aryan)](https://github.com/183aryan/github-profile-trophy)
