@@ -7,7 +7,7 @@
 ### More about me
 
 - 😁 I'm a Junior year hustler who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Data structures and Algorithms, JavaScript. Also, testing my Problem Sokving Skills on [Leetcode](https://leetcode.com/aryan183/)
+- 📖 Currently learning Data structures and Algorithms, JavaScript. Also, testing my Problem Sokving Skills.
 - 🤟 Interested WebDev.
 - 📑 Actively trying to get my hands on more Languages/Tools/DBs like Node.js, Express.js, HardHat, React etc.
 
