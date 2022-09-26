@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+[![@aryan183's Holopin board](https://holopin.io/api/user/board?user=aryan183)](https://holopin.io/@aryan183)
+
 ### More about me
 
 - 😁 I'm a Junior year hustler who thinks whatever he does is not enough and strives to be more.
