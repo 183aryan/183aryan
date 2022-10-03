@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-/* [![@aryan183's Holopin board](https://holopin.io/api/user/board?user=aryan183)](https://holopin.io/@aryan183) */
 
 ### More about me
 
@@ -58,7 +57,7 @@
 
 <br></br>
 <h3>Badges</h3>
-<br>
+
 [![@aryan183's Holopin board](https://holopin.io/api/user/board?user=aryan183)](https://holopin.io/@aryan183)
 
 <div align="center">
