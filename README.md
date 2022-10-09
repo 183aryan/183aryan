@@ -56,7 +56,7 @@
 <img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=183aryan&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 
 <br></br>
-<h3>Badges</h3>
+<h3>Badges earned during Hacktoberfest2022</h3>
 
 [![@aryan183's Holopin board](https://holopin.io/api/user/board?user=aryan183)](https://holopin.io/@aryan183)
 
