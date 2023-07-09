@@ -1,24 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Aryan...;This+is+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= Greetings,Programmers!👋;I'm+Aryan...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
 
 
 ### More about me
 
-- 😁 I'm a Junior year hustler who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Data structures and Algorithms, JavaScript. Also, testing my Problem Solving Skills.
+- 😁 I'm a Senior year hustler who thinks whatever he does is not enough and strives to be more.
+- 📖 Currently learning Data structures and Algorithms, JavaScript. Also, testing my Problem-Solving Skills.
 - 🤟 Interested WebDev.
-- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Node.js, Express.js, HardHat, React etc.
+- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Node.js, Express.js, HardHat, React, etc.
 
----
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Playing Now on Spotify 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
- 
 ---
 
 <h2 align="center">Connect with me</h2>
